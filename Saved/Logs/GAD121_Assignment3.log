@@ -6989,3 +6989,1026 @@ LogInit: Object subsystem initialized
 [2025.03.14-09.27.36:027][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 8.98 sec)
 [2025.03.14-09.27.36:037][383]AssetCheck: New page: Asset Save: Game
 [2025.03.14-09.27.36:037][383]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-09.31.14:209][339]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13658.496094
+[2025.03.14-09.31.14:350][346]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-09.31.14:350][346]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13658.618164, Update Interval: 343.937500
+[2025.03.14-09.31.16:395][449]LogViewport: Scene viewport resized to 1904x1318, mode Windowed.
+[2025.03.14-09.31.19:074][586]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-09.31.28:818][972]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.31.29:474][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-09.31.42:846][535]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.31.43:725][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-09.31.54:558][ 19]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.32.05:165][409]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.32.11:123][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.03.14-09.32.11:130][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-09.32.11:273][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-09.32.11:300][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.14-09.32.12:277][637]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-09.32.12:278][637]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Game01E6AE8443E02BC204F15C992FAD142A.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-09.32.12:289][637]LogFileHelpers: Saving map 'Game' took 1.018
+[2025.03.14-09.32.12:314][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.18 sec (total: 10.1 sec)
+[2025.03.14-09.32.12:318][637]AssetCheck: New page: Asset Save: Game
+[2025.03.14-09.32.12:318][637]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-09.32.13:997][707]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-09.32.14:008][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-09.32.14:009][707]PIE: New page: PIE session: Game (Mar. 13, 2025, 7:32:14 p.m.)
+[2025.03.14-09.32.14:009][707]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.03.14-09.32.14:012][707]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.03.14-09.32.14:025][708]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-09.32.15:878][708]LogPlayLevel: PIE: StaticDuplicateObject took: (1.853192s)
+[2025.03.14-09.32.15:878][708]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (1.853253s)
+[2025.03.14-09.32.15:885][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.14-09.32.15:887][708]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-09.32.15:887][708]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-09.32.15:888][708]LogAIModule: Creating AISystem for world Game
+[2025.03.14-09.32.15:889][708]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2025.03.14-09.32.15:889][708]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-09.32.15:889][708]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-09.32.15:889][708]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-09.32.15:890][708]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-09.32.15:890][708]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-09.32.15:890][708]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-09.32.15:892][708]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-09.32.15:915][708]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-09.32.15:915][708]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-09.32.15:915][708]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-09.32.15:915][708]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-09.32.15:916][708]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.03.14-09.32.15:916][708]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.03.14-09.32.15:919][708]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.03.14-09.32.15:919][708]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.03.14-09.32.15:919][708]LogInit: FAudioDevice initialized with ID 8.
+[2025.03.14-09.32.15:919][708]LogAudio: Display: Audio Device (ID: 8) registered with world 'Game'.
+[2025.03.14-09.32.15:919][708]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.14-09.32.15:926][708]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-09.32.15:949][708]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-02.32.15
+[2025.03.14-09.32.15:949][708]LogWorld: Bringing up level for play took: 0.021729
+[2025.03.14-09.32.15:950][708]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-09.32.15:953][708]PIE: Server logged in
+[2025.03.14-09.32.15:954][708]PIE: Play in editor total start time 1.946 seconds.
+[2025.03.14-09.33.41:404][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-09.33.41:405][ 78]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-09.33.41:405][ 78]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-09.33.41:409][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-09.33.41:450][ 78]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-09.33.41:454][ 78]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-09.33.41:467][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-09.33.41:470][ 78]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.03.14-09.33.41:470][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.14-09.33.41:473][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2025.03.14-09.33.41:498][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.03.14-09.33.41:691][ 79]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.03.14-09.33.54:797][488]LogViewport: Scene viewport resized to 1459x1318, mode Windowed.
+[2025.03.14-09.34.00:813][759]Cmd: DELETE
+[2025.03.14-09.34.00:813][759]Cmd: ACTOR DELETE
+[2025.03.14-09.34.03:940][897]Cmd: DELETE
+[2025.03.14-09.34.03:940][897]Cmd: ACTOR DELETE
+[2025.03.14-09.34.06:445][  4]Cmd: DELETE
+[2025.03.14-09.34.06:445][  4]Cmd: ACTOR DELETE
+[2025.03.14-09.34.22:664][747]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.22:664][747]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.34.24:338][793]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.24:339][793]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.34.34:520][147]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.34:520][147]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.34.53:174][933]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.53:174][933]LogEditorTransaction: Undo Modify Landscape Spline Tangent
+[2025.03.14-09.34.54:000][944]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.54:000][944]LogEditorTransaction: Undo Modify Landscape Spline Tangent
+[2025.03.14-09.34.55:178][988]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.55:178][988]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2025.03.14-09.34.56:530][ 28]Cmd: TRANSACTION UNDO
+[2025.03.14-09.34.56:530][ 28]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.35.29:726][379]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.29:754][379]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.29:774][379]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/14/47/f442b0986830b12e0b6f8cafba7aa2b85782.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2'.
+[2025.03.14-09.35.38:765][688]Cmd: TRANSACTION UNDO
+[2025.03.14-09.35.38:765][688]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.03.14-09.35.38:815][688]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.38:825][688]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.38:834][688]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.38:850][688]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.38:904][688]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/fd/12/0c0524a5cfd74539e7807c76f4003677ca21.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 [MIP 0]'.
+[2025.03.14-09.35.38:919][688]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/3a/19/21c0d74c4cf38fc9314b8316f0e3b18b725a.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0'.
+[2025.03.14-09.35.38:925][688]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/9c/c2/f071400c78f63d349459b73b6d8207b27232.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 [MIP 1]'.
+[2025.03.14-09.35.39:379][693]Cmd: TRANSACTION UNDO
+[2025.03.14-09.35.39:379][693]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2025.03.14-09.35.40:108][719]Cmd: TRANSACTION UNDO
+[2025.03.14-09.35.40:108][719]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2025.03.14-09.35.40:885][731]Cmd: TRANSACTION UNDO
+[2025.03.14-09.35.40:886][731]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.35.53:168][ 68]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.53:199][ 68]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_16 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.53:207][ 68]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/41/14/9174ebb69775f1f0aa767c0e9873c1b5a070.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 [MIP 0]'.
+[2025.03.14-09.35.53:208][ 68]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_18 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.35.53:225][ 68]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/92/b8/f435a8a61e3b2d4f14cd3d16ac885e9d9a38.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_16 [MIP 0]'.
+[2025.03.14-09.36.06:251][563]Cmd: DELETE
+[2025.03.14-09.36.06:251][563]Cmd: ACTOR DELETE
+[2025.03.14-09.36.08:173][641]Cmd: DELETE
+[2025.03.14-09.36.08:174][641]Cmd: ACTOR DELETE
+[2025.03.14-09.36.14:746][897]Cmd: TRANSACTION UNDO
+[2025.03.14-09.36.14:746][897]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.36.15:863][908]Cmd: TRANSACTION UNDO
+[2025.03.14-09.36.15:863][908]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.36.58:550][416]Cmd: DELETE
+[2025.03.14-09.36.58:550][416]Cmd: ACTOR DELETE
+[2025.03.14-09.36.58:550][416]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'ACTOR'. 
+[2025.03.14-09.37.02:135][511]Cmd: DELETE
+[2025.03.14-09.37.02:135][511]Cmd: ACTOR DELETE
+[2025.03.14-09.37.03:441][511]LogSlate: Window 'Message' being destroyed
+[2025.03.14-09.37.03:449][511]Message dialog closed, result: Cancel, title: Message, text: Control point has two segments attached, do you want to join them?
+[2025.03.14-09.37.05:934][593]Cmd: DELETE
+[2025.03.14-09.37.05:934][593]Cmd: ACTOR DELETE
+[2025.03.14-09.37.07:845][666]Cmd: DELETE
+[2025.03.14-09.37.07:845][666]Cmd: ACTOR DELETE
+[2025.03.14-09.37.09:851][736]Cmd: DELETE
+[2025.03.14-09.37.09:851][736]Cmd: ACTOR DELETE
+[2025.03.14-09.37.24:365][248]Cmd: TRANSACTION UNDO
+[2025.03.14-09.37.24:365][248]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.37.32:876][514]Cmd: TRANSACTION UNDO
+[2025.03.14-09.37.32:876][514]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.37.33:261][515]Cmd: TRANSACTION UNDO
+[2025.03.14-09.37.33:262][515]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.37.43:136][799]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14047.473633
+[2025.03.14-09.37.43:289][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-09.37.43:289][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14047.601562, Update Interval: 338.191467
+[2025.03.14-09.38.11:465][742]Cmd: DELETE
+[2025.03.14-09.38.11:465][742]Cmd: ACTOR DELETE
+[2025.03.14-09.38.13:064][786]Cmd: DELETE
+[2025.03.14-09.38.13:064][786]Cmd: ACTOR DELETE
+[2025.03.14-09.38.15:215][847]Cmd: DELETE
+[2025.03.14-09.38.15:215][847]Cmd: ACTOR DELETE
+[2025.03.14-09.38.18:639][948]Cmd: DELETE
+[2025.03.14-09.38.18:639][948]Cmd: ACTOR DELETE
+[2025.03.14-09.38.21:373][ 30]Cmd: DELETE
+[2025.03.14-09.38.21:373][ 30]Cmd: ACTOR DELETE
+[2025.03.14-09.38.25:650][154]Cmd: DELETE
+[2025.03.14-09.38.25:650][154]Cmd: ACTOR DELETE
+[2025.03.14-09.38.27:558][211]Cmd: DELETE
+[2025.03.14-09.38.27:559][211]Cmd: ACTOR DELETE
+[2025.03.14-09.38.29:607][267]Cmd: DELETE
+[2025.03.14-09.38.29:607][267]Cmd: ACTOR DELETE
+[2025.03.14-09.38.31:346][312]Cmd: DELETE
+[2025.03.14-09.38.31:346][312]Cmd: ACTOR DELETE
+[2025.03.14-09.38.34:071][387]Cmd: DELETE
+[2025.03.14-09.38.34:071][387]Cmd: ACTOR DELETE
+[2025.03.14-09.38.36:026][455]Cmd: DELETE
+[2025.03.14-09.38.36:026][455]Cmd: ACTOR DELETE
+[2025.03.14-09.38.38:273][515]Cmd: DELETE
+[2025.03.14-09.38.38:273][515]Cmd: ACTOR DELETE
+[2025.03.14-09.39.42:369][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.03.14-09.39.42:387][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-09.39.42:653][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-09.39.42:733][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.03.14-09.39.42:738][124]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.42:758][124]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.42:790][124]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.42:817][124]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.42:847][124]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.44:968][124]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-09.39.44:969][124]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/GameD2FA975C474AD5704D4F179717B47D79.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-09.39.44:992][124]LogFileHelpers: Saving map 'Game' took 2.340
+[2025.03.14-09.39.45:021][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.63 sec (total: 12.7 sec)
+[2025.03.14-09.39.45:026][124]AssetCheck: New page: Asset Save: Game
+[2025.03.14-09.39.45:028][124]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-09.39.52:881][335]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.52:916][335]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/f8/9b/9cfa20b5c7f837c611090a4dde21eae69024.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 [MIP 0]'.
+[2025.03.14-09.39.55:555][392]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.39.55:564][392]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/08/dd/a63931658fbabd6c6007c3fde5d6390e7b09.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_10'.
+[2025.03.14-09.40.25:771][139]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 694...9f6
+[2025.03.14-09.40.25:772][139]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.98 RefreshExpires: 1.552e+07
+[2025.03.14-09.40.26:015][144]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 694...9f6 Access[Expires: 2025.03.14-11.40.24 Remaining: 7200.30] Refresh[Expires: 2025-09-10T01:16:45.824Z Remaining: 15521781.82] State: Valid
+[2025.03.14-09.40.52:508][773]Cmd: TRANSACTION UNDO
+[2025.03.14-09.40.52:508][773]LogEditorTransaction: Undo Landscape Editing: Add ramp
+[2025.03.14-09.40.52:640][773]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-09.40.52:666][773]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.40.52:700][773]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.40.52:713][773]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/40/26/967c8512ac210afd83bd910bbf11376fbb3e.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 [MIP 0]'.
+[2025.03.14-09.40.52:735][773]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-09.40.52:751][773]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/dc/eb/de5a736c549a36c34ba00688d227be4c1cd9.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 [MIP 0]'.
+[2025.03.14-09.40.52:810][773]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c2/08/d97f321f08d7775a6a4e97ec7e8d72853461.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0'.
+[2025.03.14-09.40.52:833][773]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/31/e1/96035c683b27eb81e0cf29d3ad466fae4530.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0'.
+[2025.03.14-09.40.54:378][804]Cmd: SELECT NONE
+[2025.03.14-09.41.10:401][149]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-09.41.10:414][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-09.41.10:415][149]PIE: New page: PIE session: Game (Mar. 13, 2025, 7:41:10 p.m.)
+[2025.03.14-09.41.10:415][149]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2025.03.14-09.41.10:418][149]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.03.14-09.41.10:480][150]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-09.41.13:950][150]LogPlayLevel: PIE: StaticDuplicateObject took: (3.471474s)
+[2025.03.14-09.41.13:950][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (3.471673s)
+[2025.03.14-09.41.13:959][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2025.03.14-09.41.13:960][150]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-09.41.13:960][150]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-09.41.13:961][150]LogAIModule: Creating AISystem for world Game
+[2025.03.14-09.41.13:962][150]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2025.03.14-09.41.13:962][150]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-09.41.13:962][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-09.41.13:962][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-09.41.13:963][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-09.41.13:963][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-09.41.13:963][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-09.41.13:965][150]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-09.41.13:995][150]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-09.41.13:996][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-09.41.13:996][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-09.41.13:996][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-09.41.13:997][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.03.14-09.41.13:997][150]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.03.14-09.41.14:000][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.03.14-09.41.14:000][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.03.14-09.41.14:000][150]LogInit: FAudioDevice initialized with ID 9.
+[2025.03.14-09.41.14:000][150]LogAudio: Display: Audio Device (ID: 9) registered with world 'Game'.
+[2025.03.14-09.41.14:000][150]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.14-09.41.14:004][150]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-09.41.14:033][150]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-02.41.14
+[2025.03.14-09.41.14:033][150]LogWorld: Bringing up level for play took: 0.029001
+[2025.03.14-09.41.14:034][150]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-09.41.14:038][150]PIE: Server logged in
+[2025.03.14-09.41.14:040][150]PIE: Play in editor total start time 3.626 seconds.
+[2025.03.14-09.43.24:388][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-09.43.24:389][335]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-09.43.24:389][335]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-09.43.24:402][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-09.43.24:534][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-09.43.24:549][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-09.43.24:589][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-09.43.24:605][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.03.14-09.43.24:605][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.14-09.43.24:619][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2025.03.14-09.43.24:712][335]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.03.14-09.43.25:003][336]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.03.14-09.43.47:331][589]Cmd: SELECT NONE
+[2025.03.14-09.43.51:782][659]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14416.114258
+[2025.03.14-09.43.52:065][664]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-09.43.52:066][664]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14416.296875, Update Interval: 332.866608
+[2025.03.14-09.44.12:692][894]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.14-09.44.27:287][103]Cmd: DELETE
+[2025.03.14-09.44.27:287][103]Cmd: ACTOR DELETE
+[2025.03.14-09.45.06:888][631]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.03.14-09.45.06:888][631]LogWindowsTextInputMethodSystem: Activated input method: English (Canada) - (Keyboard).
+[2025.03.14-09.45.13:096][702]Cmd: SELECT NONE
+[2025.03.14-09.45.33:649][990]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.915 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1922 files in 2791 folders with total size 61 MiB.
+[2025.03.14-09.45.37:978][ 71]Cmd: DELETE
+[2025.03.14-09.45.37:978][ 71]Cmd: ACTOR DELETE
+[2025.03.14-09.45.40:546][ 97]Cmd: DELETE
+[2025.03.14-09.45.40:547][ 97]Cmd: ACTOR DELETE
+[2025.03.14-09.45.45:034][191]Cmd: DELETE
+[2025.03.14-09.45.45:035][191]Cmd: ACTOR DELETE
+[2025.03.14-09.45.47:866][258]Cmd: DELETE
+[2025.03.14-09.45.47:866][258]Cmd: ACTOR DELETE
+[2025.03.14-09.45.59:034][505]Cmd: TRANSACTION UNDO
+[2025.03.14-09.45.59:034][505]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2025.03.14-09.45.59:938][505]Cmd: TRANSACTION UNDO
+[2025.03.14-09.45.59:938][505]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.46.01:238][524]Cmd: DELETE
+[2025.03.14-09.46.01:238][524]Cmd: ACTOR DELETE
+[2025.03.14-09.46.03:711][567]Cmd: DELETE
+[2025.03.14-09.46.03:712][567]Cmd: ACTOR DELETE
+[2025.03.14-09.46.15:665][796]Cmd: TRANSACTION UNDO
+[2025.03.14-09.46.15:665][796]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.46.17:729][817]Cmd: TRANSACTION UNDO
+[2025.03.14-09.46.17:729][817]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.46.43:736][201]LogViewport: Scene viewport resized to 1904x1318, mode Windowed.
+[2025.03.14-09.46.48:516][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-09.47.02:919][636]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.47.04:844][675]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.47.12:937][823]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-09.47.22:357][  3]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.47.24:632][ 39]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.47.30:613][131]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-09.47.33:467][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-09.47.33:480][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-09.47.33:480][188]PIE: New page: PIE session: Game (Mar. 13, 2025, 7:47:33 p.m.)
+[2025.03.14-09.47.33:480][188]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.03.14-09.47.33:484][188]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.03.14-09.47.33:515][189]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-09.47.37:140][189]LogPlayLevel: PIE: StaticDuplicateObject took: (3.625020s)
+[2025.03.14-09.47.37:140][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (3.625196s)
+[2025.03.14-09.47.37:151][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.14-09.47.37:153][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-09.47.37:153][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-09.47.37:154][189]LogAIModule: Creating AISystem for world Game
+[2025.03.14-09.47.37:154][189]LogPlayLevel: PIE: World Init took: (0.001586s)
+[2025.03.14-09.47.37:154][189]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-09.47.37:154][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-09.47.37:154][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-09.47.37:155][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-09.47.37:155][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-09.47.37:155][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-09.47.37:159][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-09.47.37:195][189]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-09.47.37:195][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-09.47.37:195][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-09.47.37:195][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-09.47.37:197][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.03.14-09.47.37:197][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.03.14-09.47.37:200][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.03.14-09.47.37:200][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.03.14-09.47.37:200][189]LogInit: FAudioDevice initialized with ID 10.
+[2025.03.14-09.47.37:200][189]LogAudio: Display: Audio Device (ID: 10) registered with world 'Game'.
+[2025.03.14-09.47.37:200][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.14-09.47.37:206][189]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-09.47.37:241][189]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-02.47.37
+[2025.03.14-09.47.37:241][189]LogWorld: Bringing up level for play took: 0.034815
+[2025.03.14-09.47.37:242][189]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-09.47.37:247][189]PIE: Server logged in
+[2025.03.14-09.47.37:247][189]PIE: Play in editor total start time 3.768 seconds.
+[2025.03.14-09.48.23:744][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-09.48.23:744][865]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-09.48.23:744][865]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-09.48.23:750][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-09.48.23:817][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-09.48.23:823][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-09.48.23:840][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.14-09.48.23:842][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.03.14-09.48.23:842][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.14-09.48.23:846][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2025.03.14-09.48.23:856][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-09.48.23:879][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2025.03.14-09.48.24:074][866]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.03.14-09.48.29:211][882]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-09.49.32:956][934]LogViewport: Scene viewport resized to 1459x1318, mode Windowed.
+[2025.03.14-09.49.39:698][ 68]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_12 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.49.39:714][ 68]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_20 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.49.39:732][ 68]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c4/98/c80e2e717471c8c6953baf32b0bb5d9b9f49.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_12 [MIP 0]'.
+[2025.03.14-09.49.39:766][ 68]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/2c/32/8364826f2423b5eccea216a108dd56f682a1.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_20'.
+[2025.03.14-09.50.09:308][489]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14793.650391
+[2025.03.14-09.50.09:536][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-09.50.09:536][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14793.841797, Update Interval: 314.593964
+[2025.03.14-09.50.29:049][806]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_40 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:793][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_28 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:831][ 27]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/e4/8f/c54c24ff591893a803f417ba0aa784739000.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_28'.
+[2025.03.14-09.51.35:895][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_22 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:905][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_26 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:920][ 27]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/c6/25/9a73710fb1dd637b413c8892fdfdd598f16f.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_22 [MIP 0]'.
+[2025.03.14-09.51.35:940][ 27]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/17/c0/7735bee5439cc34236262e5ae3c03216b04a.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_26'.
+[2025.03.14-09.51.35:940][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_30 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:950][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_34 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:966][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_36 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:986][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_38 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.35:994][ 27]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/da/4a/3273efa9e6baa8261ac9f03f56f86895201b.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_30'.
+[2025.03.14-09.51.35:996][ 27]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_32 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.36:279][ 28]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_14 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.36:300][ 28]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/92/05/ee8639fbd6ed734deec243e4bc5f982ed856.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_14 [MIP 0]'.
+[2025.03.14-09.51.50:256][187]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_24 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.51.50:276][187]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision when writing file C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/bf/11/03bca318b3a21bc52c2dc9f030fc883f85ab.udd from '/Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_24'.
+[2025.03.14-09.52.15:154][535]Cmd: DELETE
+[2025.03.14-09.52.15:155][535]Cmd: ACTOR DELETE
+[2025.03.14-09.52.17:765][585]Cmd: DELETE
+[2025.03.14-09.52.17:766][585]Cmd: ACTOR DELETE
+[2025.03.14-09.52.19:730][612]Cmd: DELETE
+[2025.03.14-09.52.19:730][612]Cmd: ACTOR DELETE
+[2025.03.14-09.52.21:514][635]Cmd: DELETE
+[2025.03.14-09.52.21:514][635]Cmd: ACTOR DELETE
+[2025.03.14-09.52.23:955][667]Cmd: DELETE
+[2025.03.14-09.52.23:955][667]Cmd: ACTOR DELETE
+[2025.03.14-09.52.25:561][696]Cmd: DELETE
+[2025.03.14-09.52.25:562][696]Cmd: ACTOR DELETE
+[2025.03.14-09.52.27:006][724]Cmd: DELETE
+[2025.03.14-09.52.27:006][724]Cmd: ACTOR DELETE
+[2025.03.14-09.52.28:428][724]LogSlate: Window 'Message' being destroyed
+[2025.03.14-09.52.28:437][724]Message dialog closed, result: Cancel, title: Message, text: Control point has two segments attached, do you want to join them?
+[2025.03.14-09.52.29:775][766]Cmd: DELETE
+[2025.03.14-09.52.29:775][766]Cmd: ACTOR DELETE
+[2025.03.14-09.52.31:183][766]LogSlate: Window 'Message' being destroyed
+[2025.03.14-09.52.31:196][766]Message dialog closed, result: Cancel, title: Message, text: Control point has two segments attached, do you want to join them?
+[2025.03.14-09.52.32:774][804]Cmd: DELETE
+[2025.03.14-09.52.32:775][804]Cmd: ACTOR DELETE
+[2025.03.14-09.52.34:206][823]Cmd: DELETE
+[2025.03.14-09.52.34:207][823]Cmd: ACTOR DELETE
+[2025.03.14-09.52.35:977][864]Cmd: DELETE
+[2025.03.14-09.52.35:978][864]Cmd: ACTOR DELETE
+[2025.03.14-09.52.38:223][907]Cmd: DELETE
+[2025.03.14-09.52.38:224][907]Cmd: ACTOR DELETE
+[2025.03.14-09.52.39:943][935]Cmd: DELETE
+[2025.03.14-09.52.39:944][935]Cmd: ACTOR DELETE
+[2025.03.14-09.52.41:408][946]Cmd: DELETE
+[2025.03.14-09.52.41:409][946]Cmd: ACTOR DELETE
+[2025.03.14-09.52.43:377][969]Cmd: DELETE
+[2025.03.14-09.52.43:378][969]Cmd: ACTOR DELETE
+[2025.03.14-09.52.57:723][193]Cmd: DELETE
+[2025.03.14-09.52.57:723][193]Cmd: ACTOR DELETE
+[2025.03.14-09.53.20:618][634]Cmd: DELETE
+[2025.03.14-09.53.20:618][634]Cmd: ACTOR DELETE
+[2025.03.14-09.53.23:349][690]Cmd: DELETE
+[2025.03.14-09.53.23:350][690]Cmd: ACTOR DELETE
+[2025.03.14-09.53.25:240][720]Cmd: DELETE
+[2025.03.14-09.53.25:240][720]Cmd: ACTOR DELETE
+[2025.03.14-09.53.26:943][720]LogSlate: Window 'Message' being destroyed
+[2025.03.14-09.53.26:953][720]Message dialog closed, result: Cancel, title: Message, text: Control point has two segments attached, do you want to join them?
+[2025.03.14-09.53.29:339][772]Cmd: DELETE
+[2025.03.14-09.53.29:340][772]Cmd: ACTOR DELETE
+[2025.03.14-09.53.31:808][813]Cmd: DELETE
+[2025.03.14-09.53.31:808][813]Cmd: ACTOR DELETE
+[2025.03.14-09.53.40:234][998]Cmd: DELETE
+[2025.03.14-09.53.40:234][998]Cmd: ACTOR DELETE
+[2025.03.14-09.53.44:140][ 78]Cmd: DELETE
+[2025.03.14-09.53.44:142][ 78]Cmd: ACTOR DELETE
+[2025.03.14-09.53.46:376][118]Cmd: DELETE
+[2025.03.14-09.53.46:376][118]Cmd: ACTOR DELETE
+[2025.03.14-09.54.01:527][434]Cmd: TRANSACTION UNDO
+[2025.03.14-09.54.01:527][434]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.54.04:056][466]Cmd: EDIT CUT
+[2025.03.14-09.54.10:019][584]Cmd: DELETE
+[2025.03.14-09.54.10:019][584]Cmd: ACTOR DELETE
+[2025.03.14-09.54.12:076][632]Cmd: DELETE
+[2025.03.14-09.54.12:076][632]Cmd: ACTOR DELETE
+[2025.03.14-09.54.20:817][790]Cmd: TRANSACTION UNDO
+[2025.03.14-09.54.20:818][790]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.54.29:639][927]Cmd: TRANSACTION UNDO
+[2025.03.14-09.54.29:639][927]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.10:811][612]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.10:811][612]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.12:778][635]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.12:778][635]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.14:966][658]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.14:966][658]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.24:298][820]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.24:298][820]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.26:386][833]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.26:386][833]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.34:944][  0]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.34:944][  0]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.51:191][274]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.51:192][274]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.52:113][274]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.52:113][274]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.52:801][275]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.52:801][275]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.55:286][336]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.55:286][336]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.56:619][353]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.56:619][353]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.55.58:224][393]Cmd: TRANSACTION UNDO
+[2025.03.14-09.55.58:224][393]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.56.09:966][608]Cmd: TRANSACTION UNDO
+[2025.03.14-09.56.09:966][608]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.56.11:733][629]Cmd: TRANSACTION UNDO
+[2025.03.14-09.56.11:733][629]LogEditorTransaction: Undo Add Landscape Spline Segment
+[2025.03.14-09.56.18:216][715]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15162.555664
+[2025.03.14-09.56.18:474][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-09.56.18:474][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15162.752930, Update Interval: 335.761597
+[2025.03.14-09.56.54:941][371]Cmd: TRANSACTION UNDO
+[2025.03.14-09.56.54:941][371]LogEditorTransaction: Undo Scale Elements
+[2025.03.14-09.56.56:224][371]Cmd: TRANSACTION UNDO
+[2025.03.14-09.56.56:224][371]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.56.56:923][371]Cmd: TRANSACTION UNDO
+[2025.03.14-09.56.56:923][371]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.57.15:966][709]Cmd: TRANSACTION UNDO
+[2025.03.14-09.57.15:967][709]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.57.19:648][735]Cmd: TRANSACTION UNDO
+[2025.03.14-09.57.19:648][735]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.57.23:087][764]Cmd: TRANSACTION UNDO
+[2025.03.14-09.57.23:088][764]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.57.52:954][289]Cmd: TRANSACTION UNDO
+[2025.03.14-09.57.52:954][289]LogEditorTransaction: Undo Modify Landscape Spline Tangent
+[2025.03.14-09.57.54:046][290]Cmd: TRANSACTION UNDO
+[2025.03.14-09.57.54:046][290]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.57.56:000][306]Cmd: TRANSACTION UNDO
+[2025.03.14-09.57.56:000][306]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.58.05:274][482]Cmd: DELETE
+[2025.03.14-09.58.05:274][482]Cmd: ACTOR DELETE
+[2025.03.14-09.58.07:203][519]Cmd: TRANSACTION UNDO
+[2025.03.14-09.58.07:203][519]LogEditorTransaction: Undo Delete Elements
+[2025.03.14-09.58.08:926][520]Cmd: TRANSACTION UNDO
+[2025.03.14-09.58.08:926][520]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.58.09:423][520]Cmd: TRANSACTION UNDO
+[2025.03.14-09.58.09:424][520]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.58.10:186][530]Cmd: TRANSACTION UNDO
+[2025.03.14-09.58.10:186][530]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-09.59.05:482][520]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_44 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-09.59.58:239][503]Cmd: SELECT NONE
+[2025.03.14-10.01.20:936][831]Cmd: TRANSACTION UNDO
+[2025.03.14-10.01.20:937][831]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.03.14-10.01.22:072][840]Cmd: TRANSACTION UNDO
+[2025.03.14-10.01.22:072][840]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2025.03.14-10.01.22:142][840]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_29 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.22:149][840]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_27 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.22:160][840]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_21 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.22:164][840]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_19 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.53:728][458]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2025.03.14-10.01.53:754][458]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-10.01.54:129][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-10.01.54:238][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.03.14-10.01.54:245][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_37 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:250][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:279][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:304][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:343][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_36 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:352][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_35 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:357][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_34 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:365][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_33 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:375][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_32 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:389][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_31 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:398][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_30 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:406][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_29 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:410][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_28 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:417][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_27 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:424][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_26 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:444][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_25 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:459][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:492][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:518][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:547][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_39 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:558][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_38 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:570][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:575][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:586][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_12 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:592][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_13 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:596][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_14 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:602][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_16 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:609][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_17 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:615][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_18 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:623][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_19 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:627][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_20 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:634][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_21 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:637][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_22 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:645][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_23 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:648][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_24 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:654][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_52 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:660][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_45 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:668][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_56 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:688][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_53 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:698][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_50 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:720][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_44 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:727][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_42 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.54:731][458]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_40 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.01.56:400][458]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-10.01.56:401][458]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Game506CF6E4484A72C4617ADE97BA66F0D2.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-10.01.56:414][458]LogFileHelpers: Saving map 'Game' took 2.289
+[2025.03.14-10.01.56:428][458]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.67 sec (total: 15.4 sec)
+[2025.03.14-10.01.56:432][458]AssetCheck: New page: Asset Save: Game
+[2025.03.14-10.01.56:432][458]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-10.02.05:707][710]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-10.02.05:718][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-10.02.05:718][710]PIE: New page: PIE session: Game (Mar. 13, 2025, 8:02:05 p.m.)
+[2025.03.14-10.02.05:718][710]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.03.14-10.02.05:727][710]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.03.14-10.02.05:744][711]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-10.02.08:718][711]LogPlayLevel: PIE: StaticDuplicateObject took: (2.973276s)
+[2025.03.14-10.02.08:718][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (2.973347s)
+[2025.03.14-10.02.08:723][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.14-10.02.08:725][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-10.02.08:725][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-10.02.08:726][711]LogAIModule: Creating AISystem for world Game
+[2025.03.14-10.02.08:726][711]LogPlayLevel: PIE: World Init took: (0.001439s)
+[2025.03.14-10.02.08:726][711]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-10.02.08:726][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-10.02.08:726][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-10.02.08:728][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-10.02.08:728][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-10.02.08:728][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-10.02.08:731][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-10.02.08:758][711]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-10.02.08:758][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-10.02.08:758][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-10.02.08:758][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-10.02.08:759][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.03.14-10.02.08:759][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.03.14-10.02.08:762][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.03.14-10.02.08:762][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.03.14-10.02.08:762][711]LogInit: FAudioDevice initialized with ID 11.
+[2025.03.14-10.02.08:762][711]LogAudio: Display: Audio Device (ID: 11) registered with world 'Game'.
+[2025.03.14-10.02.08:762][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.14-10.02.08:766][711]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-10.02.08:790][711]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-03.02.08
+[2025.03.14-10.02.08:790][711]LogWorld: Bringing up level for play took: 0.024187
+[2025.03.14-10.02.08:792][711]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-10.02.08:795][711]PIE: Server logged in
+[2025.03.14-10.02.08:797][711]PIE: Play in editor total start time 3.079 seconds.
+[2025.03.14-10.02.50:338][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15554.703125
+[2025.03.14-10.02.50:640][377]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.02.50:640][377]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15554.923828, Update Interval: 317.545715
+[2025.03.14-10.02.59:107][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.02.59:108][500]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-10.02.59:111][500]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-10.02.59:119][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.02.59:215][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-10.02.59:224][500]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.02.59:240][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.02.59:252][500]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.03.14-10.02.59:252][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.14-10.02.59:257][500]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2025.03.14-10.02.59:324][500]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2025.03.14-10.02.59:498][501]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.03.14-10.03.13:320][613]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.03.42:933][178]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-10.03.42:944][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-10.03.42:945][178]PIE: New page: PIE session: Game (Mar. 13, 2025, 8:03:42 p.m.)
+[2025.03.14-10.03.42:945][178]LogPlayLevel: Display: Creating online subsystem for client :Context_13
+[2025.03.14-10.03.42:951][178]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.03.14-10.03.42:970][179]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-10.03.45:498][179]LogPlayLevel: PIE: StaticDuplicateObject took: (2.527246s)
+[2025.03.14-10.03.45:498][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (2.527338s)
+[2025.03.14-10.03.45:502][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.14-10.03.45:504][179]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-10.03.45:504][179]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-10.03.45:504][179]LogAIModule: Creating AISystem for world Game
+[2025.03.14-10.03.45:505][179]LogPlayLevel: PIE: World Init took: (0.001332s)
+[2025.03.14-10.03.45:505][179]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-10.03.45:505][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-10.03.45:505][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-10.03.45:506][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-10.03.45:506][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-10.03.45:506][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-10.03.45:509][179]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-10.03.45:533][179]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-10.03.45:533][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-10.03.45:533][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-10.03.45:533][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-10.03.45:533][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.03.14-10.03.45:533][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.03.14-10.03.45:537][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.03.14-10.03.45:537][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.03.14-10.03.45:537][179]LogInit: FAudioDevice initialized with ID 12.
+[2025.03.14-10.03.45:537][179]LogAudio: Display: Audio Device (ID: 12) registered with world 'Game'.
+[2025.03.14-10.03.45:537][179]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.14-10.03.45:542][179]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-10.03.45:564][179]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-03.03.45
+[2025.03.14-10.03.45:564][179]LogWorld: Bringing up level for play took: 0.022687
+[2025.03.14-10.03.45:565][179]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-10.03.45:569][179]PIE: Server logged in
+[2025.03.14-10.03.45:570][179]PIE: Play in editor total start time 2.627 seconds.
+[2025.03.14-10.05.55:866][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.05.55:866][819]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-10.05.55:868][819]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-10.05.55:879][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.05.55:950][819]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-10.05.55:959][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.05.55:978][819]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.05.55:992][819]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.03.14-10.05.55:993][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.14-10.05.56:006][819]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2025.03.14-10.05.56:068][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2025.03.14-10.05.56:287][820]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.03.14-10.06.30:030][383]Cmd: TRANSACTION UNDO
+[2025.03.14-10.06.30:030][383]LogEditorTransaction: Undo Add Landscape Spline Control Point
+[2025.03.14-10.07.40:568][765]Cmd: DELETE
+[2025.03.14-10.07.40:572][765]Cmd: ACTOR DELETE
+[2025.03.14-10.07.42:798][790]Cmd: DELETE
+[2025.03.14-10.07.42:798][790]Cmd: ACTOR DELETE
+[2025.03.14-10.07.44:782][832]Cmd: DELETE
+[2025.03.14-10.07.44:783][832]Cmd: ACTOR DELETE
+[2025.03.14-10.07.46:555][882]Cmd: DELETE
+[2025.03.14-10.07.46:557][882]Cmd: ACTOR DELETE
+[2025.03.14-10.07.48:319][907]Cmd: DELETE
+[2025.03.14-10.07.48:319][907]Cmd: ACTOR DELETE
+[2025.03.14-10.08.47:060][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15911.418945
+[2025.03.14-10.08.47:221][  6]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.08.47:222][  6]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15911.550781, Update Interval: 321.731628
+[2025.03.14-10.10.29:234][133]Cmd: DELETE
+[2025.03.14-10.10.29:234][133]Cmd: ACTOR DELETE
+[2025.03.14-10.10.53:112][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.14-10.10.53:132][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-10.10.53:479][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-10.10.53:560][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.03.14-10.10.53:568][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_37 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:572][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:597][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:625][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_36 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:634][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_35 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:638][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_34 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:653][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_31 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:667][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_30 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:678][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_29 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:680][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_28 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:685][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_27 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:688][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_26 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:707][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:731][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:752][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_39 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:756][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_38 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:767][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_10 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:775][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_11 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:780][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_12 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:784][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_13 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:790][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_14 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:798][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_15 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:802][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_18 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:809][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_19 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:813][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_20 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:817][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_21 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:821][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_22 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.562492 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.53:835][640]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_23 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 0.54166 MB), EncodeSpeed: Fast
+[2025.03.14-10.10.55:969][640]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-10.10.55:970][640]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Game8B8B1B7143E722037578B39EEAEA62C4.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-10.10.55:993][640]LogFileHelpers: Saving map 'Game' took 2.515
+[2025.03.14-10.10.56:006][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.87 sec (total: 18.3 sec)
+[2025.03.14-10.10.56:016][640]AssetCheck: New page: Asset Save: Game
+[2025.03.14-10.10.56:016][640]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-10.12.22:107][209]Cmd: DELETE
+[2025.03.14-10.12.22:107][209]Cmd: ACTOR DELETE
+[2025.03.14-10.12.23:829][243]Cmd: DELETE
+[2025.03.14-10.12.23:829][243]Cmd: ACTOR DELETE
+[2025.03.14-10.12.25:184][274]Cmd: DELETE
+[2025.03.14-10.12.25:185][274]Cmd: ACTOR DELETE
+[2025.03.14-10.12.50:066][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.03.14-10.12.50:076][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-10.12.50:424][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-10.12.50:534][696]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.03.14-10.12.50:541][696]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.12.50:564][696]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.12.50:607][696]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_4 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.12.50:656][696]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.12.52:705][696]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-10.12.52:706][696]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/GameD3CBF54D485DA3AFDBC5AA8FCECC9296.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-10.12.52:725][696]LogFileHelpers: Saving map 'Game' took 2.305
+[2025.03.14-10.12.52:737][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.66 sec (total: 21.0 sec)
+[2025.03.14-10.12.52:744][696]AssetCheck: New page: Asset Save: Game
+[2025.03.14-10.12.52:744][696]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-10.12.57:093][816]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-10.12.57:107][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-10.12.57:111][816]PIE: New page: PIE session: Game (Mar. 13, 2025, 8:12:57 p.m.)
+[2025.03.14-10.12.57:112][816]LogPlayLevel: Display: Creating online subsystem for client :Context_14
+[2025.03.14-10.12.57:124][816]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.03.14-10.12.57:228][817]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-10.13.01:145][817]LogPlayLevel: PIE: StaticDuplicateObject took: (3.920254s)
+[2025.03.14-10.13.01:145][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (3.920464s)
+[2025.03.14-10.13.01:152][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2025.03.14-10.13.01:153][817]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-10.13.01:153][817]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-10.13.01:154][817]LogAIModule: Creating AISystem for world Game
+[2025.03.14-10.13.01:154][817]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2025.03.14-10.13.01:154][817]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-10.13.01:155][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-10.13.01:155][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-10.13.01:155][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-10.13.01:155][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-10.13.01:155][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-10.13.01:158][817]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-10.13.01:187][817]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-10.13.01:188][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-10.13.01:188][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-10.13.01:188][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-10.13.01:188][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.03.14-10.13.01:188][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.03.14-10.13.01:192][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.03.14-10.13.01:192][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.03.14-10.13.01:192][817]LogInit: FAudioDevice initialized with ID 13.
+[2025.03.14-10.13.01:192][817]LogAudio: Display: Audio Device (ID: 13) registered with world 'Game'.
+[2025.03.14-10.13.01:192][817]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.14-10.13.01:198][817]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-10.13.01:227][817]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-03.13.01
+[2025.03.14-10.13.01:227][817]LogWorld: Bringing up level for play took: 0.029605
+[2025.03.14-10.13.01:228][817]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-10.13.01:232][817]PIE: Server logged in
+[2025.03.14-10.13.01:233][817]PIE: Play in editor total start time 4.127 seconds.
+[2025.03.14-10.15.03:917][  6]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16288.268555
+[2025.03.14-10.15.04:146][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.15.04:146][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16288.433594, Update Interval: 351.364471
+[2025.03.14-10.16.06:575][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.16.06:575][145]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-10.16.06:575][145]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-10.16.06:588][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.16.06:684][145]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-10.16.06:693][145]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.16.06:715][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.16.06:727][145]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.03.14-10.16.06:727][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.14-10.16.06:735][145]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.03.14-10.16.06:815][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.03.14-10.16.07:147][146]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.03.14-10.16.43:913][813]Cmd: DELETE
+[2025.03.14-10.16.43:914][813]Cmd: ACTOR DELETE
+[2025.03.14-10.16.46:055][865]Cmd: DELETE
+[2025.03.14-10.16.46:056][865]Cmd: ACTOR DELETE
+[2025.03.14-10.17.16:013][523]Cmd: TRANSACTION UNDO
+[2025.03.14-10.17.16:013][523]LogEditorTransaction: Undo Move Elements
+[2025.03.14-10.17.18:288][547]Cmd: DELETE
+[2025.03.14-10.17.18:288][547]Cmd: ACTOR DELETE
+[2025.03.14-10.18.01:418][496]Cmd: DELETE
+[2025.03.14-10.18.01:418][496]Cmd: ACTOR DELETE
+[2025.03.14-10.18.37:539][202]Cmd: DELETE
+[2025.03.14-10.18.37:539][202]Cmd: ACTOR DELETE
+[2025.03.14-10.19.24:036][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-10.19.24:051][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-10.19.24:051][152]PIE: New page: PIE session: Game (Mar. 13, 2025, 8:19:24 p.m.)
+[2025.03.14-10.19.24:051][152]LogPlayLevel: Display: Creating online subsystem for client :Context_15
+[2025.03.14-10.19.24:056][152]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.03.14-10.19.24:085][153]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-10.19.27:103][153]LogPlayLevel: PIE: StaticDuplicateObject took: (3.018618s)
+[2025.03.14-10.19.27:103][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (3.018858s)
+[2025.03.14-10.19.27:113][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.03.14-10.19.27:115][153]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-10.19.27:115][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-10.19.27:116][153]LogAIModule: Creating AISystem for world Game
+[2025.03.14-10.19.27:116][153]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2025.03.14-10.19.27:116][153]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-10.19.27:116][153]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-10.19.27:117][153]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-10.19.27:117][153]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-10.19.27:117][153]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-10.19.27:117][153]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-10.19.27:120][153]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-10.19.27:149][153]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-10.19.27:149][153]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-10.19.27:149][153]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-10.19.27:149][153]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-10.19.27:151][153]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2025.03.14-10.19.27:151][153]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2025.03.14-10.19.27:153][153]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2025.03.14-10.19.27:153][153]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2025.03.14-10.19.27:153][153]LogInit: FAudioDevice initialized with ID 14.
+[2025.03.14-10.19.27:153][153]LogAudio: Display: Audio Device (ID: 14) registered with world 'Game'.
+[2025.03.14-10.19.27:153][153]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.14-10.19.27:158][153]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-10.19.27:186][153]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-03.19.27
+[2025.03.14-10.19.27:186][153]LogWorld: Bringing up level for play took: 0.027694
+[2025.03.14-10.19.27:187][153]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-10.19.27:190][153]PIE: Server logged in
+[2025.03.14-10.19.27:191][153]PIE: Play in editor total start time 3.141 seconds.
+[2025.03.14-10.21.46:544][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16692.404297
+[2025.03.14-10.21.46:830][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.21.46:831][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16692.650391, Update Interval: 352.193970
+[2025.03.14-10.22.28:156][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.22.28:157][574]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-10.22.28:157][574]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-10.22.28:173][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.22.28:203][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-10.22.28:212][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.22.28:246][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.22.28:261][574]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2025.03.14-10.22.28:262][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.14-10.22.28:272][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2025.03.14-10.22.28:363][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2025.03.14-10.22.28:574][575]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.03.14-10.22.42:913][864]LogViewport: Scene viewport resized to 1904x1318, mode Windowed.
+[2025.03.14-10.23.17:142][579]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-10.23.25:622][785]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.23.27:998][839]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.23.29:049][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-10.23.33:847][971]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.23.37:315][ 57]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.23.39:083][104]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.23.44:167][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.03.14-10.23.56:946][524]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.24.01:368][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.14-10.24.01:391][589]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-10.24.01:728][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-10.24.01:823][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.03.14-10.24.01:830][589]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2025.03.14-10.24.01:868][589]LogTexture: Display: Building textures: /Game/Game.Game:PersistentLevel.Landscape_5.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 7.72916 MB), EncodeSpeed: Fast
+[2025.03.14-10.24.03:575][589]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-10.24.03:576][589]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Game48E67AEF41C0EB64954C75BEBA21C71F.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-10.24.03:587][589]LogFileHelpers: Saving map 'Game' took 1.861
+[2025.03.14-10.24.03:626][589]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.23 sec (total: 23.2 sec)
+[2025.03.14-10.24.03:633][589]AssetCheck: New page: Asset Save: Game
+[2025.03.14-10.24.03:633][589]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-10.24.24:100][ 50]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-10.24.24:115][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-10.24.24:115][ 50]PIE: New page: PIE session: Game (Mar. 13, 2025, 8:24:24 p.m.)
+[2025.03.14-10.24.24:119][ 50]LogPlayLevel: Display: Creating online subsystem for client :Context_16
+[2025.03.14-10.24.24:124][ 50]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2025.03.14-10.24.24:151][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-10.24.27:466][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (3.316150s)
+[2025.03.14-10.24.27:466][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (3.316630s)
+[2025.03.14-10.24.27:474][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.14-10.24.27:476][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-10.24.27:476][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-10.24.27:477][ 51]LogAIModule: Creating AISystem for world Game
+[2025.03.14-10.24.27:477][ 51]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2025.03.14-10.24.27:477][ 51]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-10.24.27:477][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-10.24.27:477][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-10.24.27:477][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-10.24.27:477][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-10.24.27:477][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-10.24.27:480][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-10.24.27:504][ 51]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-10.24.27:505][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-10.24.27:505][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-10.24.27:505][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-10.24.27:505][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.03.14-10.24.27:505][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.03.14-10.24.27:508][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.03.14-10.24.27:508][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.03.14-10.24.27:508][ 51]LogInit: FAudioDevice initialized with ID 15.
+[2025.03.14-10.24.27:508][ 51]LogAudio: Display: Audio Device (ID: 15) registered with world 'Game'.
+[2025.03.14-10.24.27:508][ 51]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.14-10.24.27:512][ 51]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-10.24.27:538][ 51]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-03.24.27
+[2025.03.14-10.24.27:539][ 51]LogWorld: Bringing up level for play took: 0.025798
+[2025.03.14-10.24.27:540][ 51]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-10.24.27:544][ 51]PIE: Server logged in
+[2025.03.14-10.24.27:544][ 51]PIE: Play in editor total start time 3.43 seconds.
+[2025.03.14-10.24.33:522][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.24.33:522][119]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-10.24.33:522][119]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-10.24.33:525][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.24.34:167][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-10.24.34:175][119]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.24.34:195][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.24.34:209][119]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.03.14-10.24.34:209][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.14-10.24.34:217][119]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2025.03.14-10.24.34:260][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2025.03.14-10.24.34:378][120]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2025.03.14-10.24.40:932][217]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.24.43:774][271]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.24.46:954][348]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.24.51:539][432]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.03.14-10.24.55:114][511]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-10.24.55:125][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.14-10.24.55:125][511]PIE: New page: PIE session: Game (Mar. 13, 2025, 8:24:55 p.m.)
+[2025.03.14-10.24.55:125][511]LogPlayLevel: Display: Creating online subsystem for client :Context_17
+[2025.03.14-10.24.55:132][511]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2025.03.14-10.24.55:194][512]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-10.24.58:098][512]LogPlayLevel: PIE: StaticDuplicateObject took: (2.904028s)
+[2025.03.14-10.24.58:099][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (2.904221s)
+[2025.03.14-10.24.58:106][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.14-10.24.58:108][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-10.24.58:108][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-10.24.58:108][512]LogAIModule: Creating AISystem for world Game
+[2025.03.14-10.24.58:109][512]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2025.03.14-10.24.58:109][512]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-10.24.58:109][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-10.24.58:109][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-10.24.58:110][512]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-10.24.58:110][512]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-10.24.58:110][512]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-10.24.58:113][512]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-10.24.58:139][512]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-10.24.58:139][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-10.24.58:139][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-10.24.58:139][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-10.24.58:140][512]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.03.14-10.24.58:140][512]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.03.14-10.24.58:143][512]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.03.14-10.24.58:143][512]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.03.14-10.24.58:143][512]LogInit: FAudioDevice initialized with ID 16.
+[2025.03.14-10.24.58:143][512]LogAudio: Display: Audio Device (ID: 16) registered with world 'Game'.
+[2025.03.14-10.24.58:143][512]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.14-10.24.58:148][512]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-10.24.58:176][512]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-03.24.58
+[2025.03.14-10.24.58:176][512]LogWorld: Bringing up level for play took: 0.027864
+[2025.03.14-10.24.58:177][512]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-10.24.58:181][512]PIE: Server logged in
+[2025.03.14-10.24.58:182][512]PIE: Play in editor total start time 3.057 seconds.
+[2025.03.14-10.25.27:145][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.25.27:147][ 44]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-10.25.27:149][ 44]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-10.25.27:161][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.25.27:293][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-10.25.27:309][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-10.25.27:354][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-10.25.27:372][ 44]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.03.14-10.25.27:373][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.14-10.25.27:382][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2025.03.14-10.25.27:492][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2025.03.14-10.25.27:890][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_17
