@@ -8012,3 +8012,216 @@ LogInit: Object subsystem initialized
 [2025.03.14-10.25.27:382][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
 [2025.03.14-10.25.27:492][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
 [2025.03.14-10.25.27:890][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2025.03.14-10.28.39:020][613]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17104.882812
+[2025.03.14-10.28.40:024][616]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.28.40:024][616]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17105.550781, Update Interval: 326.530945
+[2025.03.14-10.34.43:014][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.03.14-10.34.43:017][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Game_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2025.03.14-10.34.44:115][703]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Game_Auto5
+[2025.03.14-10.34.44:115][703]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Game_Auto529305BC243F3EC31618086B53926BAE6.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Game_Auto5.umap'
+[2025.03.14-10.34.44:116][703]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Game_Auto5.umap is in the /Temp path, will not scan.
+[2025.03.14-10.34.44:116][703]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Game_Auto5 is in the /Temp path, will not scan.
+[2025.03.14-10.34.44:116][703]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Game_Auto5 is in the /Temp path, will not scan.
+[2025.03.14-10.34.44:117][703]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game' took 1.111
+[2025.03.14-10.34.44:117][703]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.111
+[2025.03.14-10.34.48:492][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17474.322266
+[2025.03.14-10.34.49:492][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.34.49:492][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17474.990234, Update Interval: 339.572144
+[2025.03.14-10.41.27:610][915]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 17873.478516
+[2025.03.14-10.41.28:610][918]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.41.28:610][918]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 17874.144531, Update Interval: 324.145020
+[2025.03.14-10.45.32:859][650]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.124 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2188 files in 3060 folders with total size 70 MiB.
+[2025.03.14-10.47.49:756][ 61]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18255.656250
+[2025.03.14-10.47.50:749][ 64]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.47.50:749][ 64]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18256.322266, Update Interval: 332.855621
+[2025.03.14-10.54.14:507][215]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 18640.443359
+[2025.03.14-10.54.15:509][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-10.54.15:509][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 18641.111328, Update Interval: 323.787964
+[2025.03.14-11.00.06:202][334]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.14-11.00.06:216][334]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.14-11.00.06:230][335]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.14-11.00.12:598][480]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprint
+[2025.03.14-11.00.12:599][480]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.14-11.00.33:424][688]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.03.14-11.00.35:923][784]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19021.875000
+[2025.03.14-11.00.36:079][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.00.36:079][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19022.001953, Update Interval: 336.521484
+[2025.03.14-11.01.27:624][153]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2025.03.14-11.02.32:716][762]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2025.03.14-11.02.32:727][762]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2025.03.14-11.02.32:735][762]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2025.03.14-11.02.32:777][764]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2025.03.14-11.02.36:164][883]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Time
+[2025.03.14-11.02.36:179][883]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2025.03.14-11.02.49:686][951]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprint/Time.Time
+[2025.03.14-11.02.49:690][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.02.49:691][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.02.49:713][951]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.02.49:713][951]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.02.49:735][951]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2025.03.14-11.02.49:748][951]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2025.03.14-11.02.51:687][951]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2025.03.14-11.02.51:928][951]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.241290s
+[2025.03.14-11.02.53:633][951]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 3.947271s (1.947271s overbudget)
+[2025.03.14-11.02.53:682][951]LogSlate: Took 0.001005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.14-11.02.53:698][951]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2025.03.14-11.02.53:707][951]LogSlate: Took 0.008331 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.03.14-11.06.59:948][364]LogSlate: Took 0.008658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.03.14-11.07.10:882][531]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19416.869141
+[2025.03.14-11.07.11:077][537]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.07.11:077][537]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19417.035156, Update Interval: 353.602112
+[2025.03.14-11.10.20:494][778]BlueprintLog: New page: Compile Time
+[2025.03.14-11.10.20:617][778]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2025.03.14-11.10.24:997][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-11.10.25:090][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset" SILENT=true
+[2025.03.14-11.10.25:102][830]LogSavePackage: Moving output files for package: /Game/Blueprint/Time
+[2025.03.14-11.10.25:102][830]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/TimeF7ABFCED4338DB69AC976DA33A37EEDB.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset'
+[2025.03.14-11.10.25:118][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 23.3 sec)
+[2025.03.14-11.10.25:121][830]AssetCheck: New page: Asset Save: Time
+[2025.03.14-11.10.25:121][830]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/Time.Time
+[2025.03.14-11.11.26:862][375]BlueprintLog: New page: Compile Time
+[2025.03.14-11.11.26:940][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.03.14-11.11.27:928][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-11.11.28:052][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset" SILENT=true
+[2025.03.14-11.11.28:056][399]LogSavePackage: Moving output files for package: /Game/Blueprint/Time
+[2025.03.14-11.11.28:056][399]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Time93114B1A47CEAB91386E5C84E7F65DEC.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset'
+[2025.03.14-11.11.28:069][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 23.5 sec)
+[2025.03.14-11.11.28:070][399]AssetCheck: New page: Asset Save: Time
+[2025.03.14-11.11.28:070][399]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/Time.Time
+[2025.03.14-11.11.28:817][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-11.11.28:936][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset" SILENT=true
+[2025.03.14-11.11.28:943][420]LogSavePackage: Moving output files for package: /Game/Blueprint/Time
+[2025.03.14-11.11.28:943][420]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Time91369E6847AA1646FDB717A319544975.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset'
+[2025.03.14-11.11.28:955][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 23.6 sec)
+[2025.03.14-11.11.28:958][420]AssetCheck: New page: Asset Save: Time
+[2025.03.14-11.11.28:958][420]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/Time.Time
+[2025.03.14-11.13.55:040][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.03.14-11.13.55:045][ 27]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game' took 0.022
+[2025.03.14-11.13.55:045][ 27]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Time] ([2] browsable assets)...
+[2025.03.14-11.13.55:045][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Time]
+[2025.03.14-11.13.55:045][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Blueprint/Time_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2025.03.14-11.13.55:051][ 27]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Time_Auto6
+[2025.03.14-11.13.55:051][ 27]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Time_Auto60FD68D76451A73253A7F6AA40316A0FA.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Blueprint/Time_Auto6.uasset'
+[2025.03.14-11.13.55:052][ 27]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.03.14-11.13.55:085][ 28]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19821.000000
+[2025.03.14-11.13.55:934][ 31]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.13.55:934][ 31]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19821.511719, Update Interval: 349.859314
+[2025.03.14-11.14.28:470][593]BlueprintLog: New page: Compile Time
+[2025.03.14-11.14.28:511][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.03.14-11.14.29:205][612]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-11.14.29:330][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset" SILENT=true
+[2025.03.14-11.14.29:335][612]LogSavePackage: Moving output files for package: /Game/Blueprint/Time
+[2025.03.14-11.14.29:336][612]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Time6EBDEB404D993BF90EC0B59A6D74F733.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset'
+[2025.03.14-11.14.29:347][612]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 23.7 sec)
+[2025.03.14-11.14.29:350][612]AssetCheck: New page: Asset Save: Time
+[2025.03.14-11.14.29:350][612]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/Time.Time
+[2025.03.14-11.18.28:168][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-11.18.28:258][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset" SILENT=true
+[2025.03.14-11.18.28:267][981]LogSavePackage: Moving output files for package: /Game/Blueprint/Time
+[2025.03.14-11.18.28:267][981]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Time2F2A31CF4A736F214816A2B6C60706D5.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Blueprint/Time.uasset'
+[2025.03.14-11.18.28:285][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 23.9 sec)
+[2025.03.14-11.18.28:288][981]AssetCheck: New page: Asset Save: Time
+[2025.03.14-11.18.28:288][981]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Blueprint/Time.Time
+[2025.03.14-11.18.36:115][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.14-11.18.36:295][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.14-11.18.36:390][205]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.03.14-11.18.37:814][205]LogSavePackage: Moving output files for package: /Game/Game
+[2025.03.14-11.18.37:814][205]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Game6925E77E40310EE15FE72EAA975DD010.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Content/Game.umap'
+[2025.03.14-11.18.37:827][205]LogFileHelpers: Saving map 'Game' took 1.533
+[2025.03.14-11.18.37:841][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.72 sec (total: 25.6 sec)
+[2025.03.14-11.18.37:846][205]AssetCheck: New page: Asset Save: Game
+[2025.03.14-11.18.37:846][205]LogContentValidation: Display: Validating /Script/Engine.World /Game/Game.Game
+[2025.03.14-11.19.10:747][ 16]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.03.14-11.19.11:290][ 18]LogEditorTransaction: Undo Move Node
+[2025.03.14-11.20.03:747][243]LogSlate: Window 'Time' being destroyed
+[2025.03.14-11.20.03:771][243]LogSlate: Window 'Time' being destroyed
+[2025.03.14-11.20.03:805][243]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.20.03:805][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.20.03:813][243]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.20.03:813][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.20.05:370][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.14-11.20.05:380][288]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.03.14-11.20.05:381][288]LogPlayLevel: [PlayLevel] Compiling Time before play...
+[2025.03.14-11.20.05:433][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2025.03.14-11.20.05:437][288]LogPlayLevel: PlayLevel: Blueprint regeneration took 57 ms (1 blueprints)
+[2025.03.14-11.20.05:437][288]PIE: New page: PIE session: Game (Mar. 13, 2025, 9:20:05 p.m.)
+[2025.03.14-11.20.05:437][288]LogPlayLevel: Display: Creating online subsystem for client :Context_20
+[2025.03.14-11.20.05:441][288]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.03.14-11.20.05:464][289]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game
+[2025.03.14-11.20.07:341][289]LogPlayLevel: PIE: StaticDuplicateObject took: (1.876006s)
+[2025.03.14-11.20.07:341][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game.Game to /Game/UEDPIE_0_Game.Game (1.876088s)
+[2025.03.14-11.20.07:374][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.03.14-11.20.07:375][289]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.14-11.20.07:376][289]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.14-11.20.07:377][289]LogAIModule: Creating AISystem for world Game
+[2025.03.14-11.20.07:377][289]LogPlayLevel: PIE: World Init took: (0.002319s)
+[2025.03.14-11.20.07:378][289]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.14-11.20.07:378][289]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.14-11.20.07:378][289]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.14-11.20.07:378][289]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.14-11.20.07:378][289]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.14-11.20.07:378][289]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.14-11.20.07:382][289]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.14-11.20.07:406][289]LogAudioMixer: Display: Using Audio Hardware Device Surface Omnisonic Speakers (Surface High Definition Audio)
+[2025.03.14-11.20.07:407][289]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.14-11.20.07:407][289]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.14-11.20.07:407][289]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.14-11.20.07:408][289]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.03.14-11.20.07:408][289]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.03.14-11.20.07:410][289]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.03.14-11.20.07:410][289]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.03.14-11.20.07:410][289]LogInit: FAudioDevice initialized with ID 17.
+[2025.03.14-11.20.07:410][289]LogAudio: Display: Audio Device (ID: 17) registered with world 'Game'.
+[2025.03.14-11.20.07:410][289]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.14-11.20.07:414][289]LogLoad: Game class is 'VehicleAdvGameMode_C'
+[2025.03.14-11.20.07:438][289]LogWorld: Bringing World /Game/UEDPIE_0_Game.Game up for play (max tick rate 60) at 2025.03.14-04.20.07
+[2025.03.14-11.20.07:438][289]LogWorld: Bringing up level for play took: 0.023473
+[2025.03.14-11.20.07:439][289]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.03.14-11.20.07:443][289]PIE: Server logged in
+[2025.03.14-11.20.07:444][289]PIE: Play in editor total start time 2.064 seconds.
+[2025.03.14-11.20.20:013][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-11.20.20:013][471]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game
+[2025.03.14-11.20.20:014][471]LogWorld: UWorld::CleanupWorld for Game, bSessionEnded=true, bCleanupResources=true
+[2025.03.14-11.20.20:021][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.20.20:094][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.14-11.20.20:105][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.14-11.20.20:142][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.14-11.20.20:151][471]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.03.14-11.20.20:151][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.14-11.20.20:157][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2025.03.14-11.20.20:199][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2025.03.14-11.20.20:534][472]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.03.14-11.20.38:280][528]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20224.177734
+[2025.03.14-11.20.39:274][531]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.20.39:274][531]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20224.845703, Update Interval: 352.867828
+[2025.03.14-11.27.11:274][710]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 20617.189453
+[2025.03.14-11.27.12:272][713]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.27.12:272][713]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 20617.855469, Update Interval: 358.937958
+[2025.03.14-11.28.51:341][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.03.14-11.28.51:344][  8]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Game' took 0.034
+[2025.03.14-11.28.51:345][  8]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/Time] ([2] browsable assets)...
+[2025.03.14-11.28.51:350][  8]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprint/Time.Time]
+[2025.03.14-11.28.51:350][  8]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Time]
+[2025.03.14-11.28.51:350][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Time" FILE="../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Blueprint/Time_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2025.03.14-11.28.51:358][  8]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/Time_Auto7
+[2025.03.14-11.28.51:358][  8]LogSavePackage: Moving '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Time_Auto737D2165F4A17DC3CE98A47AECECF6155.tmp' to '../../../../../../Work/Unreal Projects/GAD121_Assignment3/Saved/Autosaves/Game/Blueprint/Time_Auto7.uasset'
+[2025.03.14-11.28.51:363][  8]LogFileHelpers: Auto-saving content packages took 0.018
+[2025.03.14-11.33.44:124][888]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21010.111328
+[2025.03.14-11.33.45:121][891]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.33.45:121][891]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21010.775391, Update Interval: 337.076324
+[2025.03.14-11.38.45:204][791]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 694...9f6
+[2025.03.14-11.38.45:204][791]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.96 RefreshExpires: 1.551e+07
+[2025.03.14-11.38.46:204][794]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 694...9f6 Access[Expires: 2025.03.14-13.38.45 Remaining: 7200.64] Refresh[Expires: 2025-09-10T01:16:45.824Z Remaining: 15514680.82] State: Valid
+[2025.03.14-11.40.21:891][ 81]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21407.923828
+[2025.03.14-11.40.22:891][ 84]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.40.22:891][ 84]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21408.591797, Update Interval: 356.028320
+[2025.03.14-11.45.33:806][ 16]LogDerivedDataCache: C:/Users/hopli/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.071 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2188 files in 3060 folders with total size 70 MiB.
+[2025.03.14-11.46.56:315][264]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 21802.378906
+[2025.03.14-11.46.57:312][267]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.14-11.46.57:312][267]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 21803.044922, Update Interval: 343.664673
